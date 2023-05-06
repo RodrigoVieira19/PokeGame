@@ -1,0 +1,12 @@
+@keyframes attackSuccess {
+	50%  {opacity: 1;}
+	100% {opacity: 0;}
+}
+
+.numeroPokemon {
+	display: 'none';
+}
+
+.numeroPokemon2 {
+	display: 'none';
+}
